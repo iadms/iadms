@@ -1,7 +1,7 @@
 iADMS 
 =====
 
-iADMS는 syncthing server를 이용합니다.
+iADMS를 사용하기 위해서는 [syncthing](http://syncthing.net)이 설치되어 있어야 합니다.
 
 Server Installation
 -------------------
